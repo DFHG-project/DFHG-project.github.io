@@ -8,4 +8,4 @@ The <i>Digital Fragmenta Historicorum Graecorum</i> (DFHG) is the digital versio
 * GitHub Website: [http://dfhg-project.github.io](http://dfhg-project.github.io/)
 
 #### License
-Contents of this DFHG project are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+Contents of the DFHG project are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
