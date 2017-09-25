@@ -1,6 +1,11 @@
 # DFHG.github.io
 
-A digital version of the <em>Fragmenta Historicorum Graecorum</em> (FHG) by Karl Müller: [http://dfhg-project.github.io/](http://dfhg-project.github.io/)
+#### About
+
+The <i>Digital Fragmenta Historicorum Graecorum</i> (DFHG) is the digital version of the five volumes of the <i>Fragmenta Historicorum Graecorum</i> edited by Karl Müller (1841-1872).
+* Editor in Chief: Monica Berti, University of Leipzig
+* Project Website: [http://www.dfhg-project.org](http://www.dfhg-project.org/)
+* GitHub Website: [http://dfhg-project.github.io](http://dfhg-project.github.io/)
 
 #### License
-Contents of this repository are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+Contents of this organization are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
