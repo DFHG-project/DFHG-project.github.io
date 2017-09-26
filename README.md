@@ -8,7 +8,7 @@
 
 The <i>Digital Fragmenta Historicorum Graecorum</i> (DFHG) is the digital version of the five volumes of the <i>Fragmenta Historicorum Graecorum</i> edited by Karl Müller (1841-1872).
 
-The repositories of this GitHub organization contain data about the 636 ancient Greek fragmentary historians published in the FHG collection. For a complete list of authors published in the FHG including a table of concordance with other collections, see the [Müller-Jacoby Table of Concordance](http://www.dfhg-project.org/Mueller-Jacoby-Concordance/). 
+The repositories of this GitHub organization contain data about the 636 ancient Greek authors published in the FHG collection. For a complete list of authors published in the FHG including a table of concordance with other collections, see the [Müller-Jacoby Table of Concordance](http://www.dfhg-project.org/Mueller-Jacoby-Concordance/). 
 
 #### License
 Contents of the DFHG project are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
