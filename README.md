@@ -2,7 +2,7 @@
 
 #### About
 
-* Editor-in-chief: Monica Berti, University of Leipzig: [monica.berti@uni-leipzig.de](monica.berti@uni-leipzig.de)
+* Editor-in-chief: Monica Berti, University of Leipzig: <monica.berti@uni-leipzig.de>
 * Project Website: [http://www.dfhg-project.org](http://www.dfhg-project.org/)
 * GitHub Website: [http://dfhg-project.github.io](http://dfhg-project.github.io/)
 
