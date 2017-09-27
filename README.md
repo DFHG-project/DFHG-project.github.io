@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/66142168.svg)](https://zenodo.org/badge/latestdoi/66142168)
+
 # DFHG.github.io
 
 #### About
