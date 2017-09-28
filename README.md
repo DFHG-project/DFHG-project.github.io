@@ -12,7 +12,7 @@ The <i>Digital Fragmenta Historicorum Graecorum</i> (DFHG) is the digital versio
 
 The repositories of this GitHub organization contain data about the 636 ancient Greek authors published in the FHG collection. 
 
-For a complete list of authors published in the FHG including correspondences with other collections, see the [Müller-Jacoby Table of Concordance](http://www.dfhg-project.org/Mueller-Jacoby-Concordance/). The project provides also a complete list of FHG authors with corresponding `LOFTS urns` and `CITE urns`: see [DFHG_lofts_cite urns](https://github.com/DFHG-project/DFHG-project.github.io/blob/master/lofts_cite_urns_dfhg.csv).
+For a complete list of authors published in the FHG including correspondences with other collections, see the [Müller-Jacoby Table of Concordance](http://www.dfhg-project.org/Mueller-Jacoby-Concordance/). The project provides also a complete list of FHG authors with corresponding `LOFTS urns`: see [DFHG_lofts_cite urns](https://github.com/DFHG-project/DFHG-project.github.io/blob/master/lofts_cite_urns_dfhg.csv).
 
 #### License
 
