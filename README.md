@@ -14,7 +14,7 @@ The repositories of this GitHub organization contain data about the 636 ancient 
 
 For a complete list of authors published in the FHG including correspondences with other collections, see the [Müller-Jacoby Table of Concordance](http://www.dfhg-project.org/Mueller-Jacoby-Concordance/).
 
-For a complete list of FHG authors with corresponding DFHG and CITE urns, see  
+For a complete list of FHG authors with corresponding LOFTS and CITE urns, see [DFHG_lofts_cite urns](https://github.com/DFHG-project/DFHG-project.github.io/blob/master/lofts_cite_urns_dfhg.csv).
 
 #### License
 
