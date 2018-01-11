@@ -14,6 +14,8 @@ The repositories of this GitHub organization contain data about the 636 ancient 
 
 For a search engine of authors published in the FHG including correspondences with other collections, see the [Müller-Jacoby Table of Concordance](http://www.dfhg-project.org/Mueller-Jacoby-Concordance/).
 
+For a complete catalog of the witnesses who preserve text reuses of the DFHG authors, see the [DFHG Witnesses Catalog](http://www.dfhg-project.org/Witnesses-Catalog/). The Catalog offers also a [Witnesses Map](http://www.dfhg-project.org/Witnesses-Catalog/map.php), a [Witnesses (Authors) Char](http://www.dfhg-project.org/Witnesses-Catalog/authors_char.php), a Witnesses (Works) Char](http://www.dfhg-project.org/Witnesses-Catalog/works_char.php), and a [Witnesses Timeline](http://www.dfhg-project.org/Witnesses-Catalog/timeline.php).
+
 The project provides also a complete list of FHG authors with corresponding `LOFTS urns` and `CITE urns`: see [DFHG_lofts_cite_urns](https://github.com/DFHG-project/DFHG-project.github.io/blob/master/dfhg_lofts_cite_urns.csv). On the use of LOFTS and CITE urns for citing FHG authors, read the homepage of the [DFHG project](http://www.dfhg-project.org).
 
 #### License
