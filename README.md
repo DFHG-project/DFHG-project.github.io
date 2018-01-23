@@ -8,11 +8,11 @@
 * Project Website: [http://www.dfhg-project.org](http://www.dfhg-project.org/)
 * GitHub Pages: [http://dfhg-project.github.io](http://dfhg-project.github.io/)
 
-The <i>Digital Fragmenta Historicorum Graecorum</i> (DFHG) is the digital version of the five volumes of the <i>Fragmenta Historicorum Graecorum</i> edited by Karl Müller (1841-1872).
+The <i>Digital Fragmenta Historicorum Graecorum</i> (DFHG) is the digital version of the five volumes of the <i>Fragmenta Historicorum Graecorum</i> edited by Karl Müller (1841-1872). The project provides not a new edition of Greek fragmentary authors, but a computational model for producing digital editions of ancient fragmentary authors and works. The DFHG project is complementary to the [Digital Athenaeus](http://digitalathenaeus.org/) project.
 
 The repositories of this GitHub organization contain data about the 636 ancient Greek authors published in the FHG collection. 
 
-For a search engine of authors published in the FHG including correspondences with other collections, see the [Müller-Jacoby Table of Concordance](http://www.dfhg-project.org/Mueller-Jacoby-Concordance/).
+For a catalog of fragmentary authors published in the FHG, see the [DFHG Fragmentary Authors Catalog](http://www.dfhg-project.org/Fragmentary-Authors-Catalog/). The project provides also the [Müller-Jacoby Table of Concordance](http://www.dfhg-project.org/Mueller-Jacoby-Concordance/), which is a search engine of authors published in the FHG including correspondences with other collections.
 
 For a complete searchable catalog of the witnesses who preserve text reuses of the DFHG authors, see the [DFHG Witnesses Catalog](http://www.dfhg-project.org/Witnesses-Catalog/). The Catalog offers a [Witnesses Map](http://www.dfhg-project.org/Witnesses-Catalog/map.php), a [Witnesses (Authors) Char](http://www.dfhg-project.org/Witnesses-Catalog/authors_char.php), a [Witnesses (Works) Char](http://www.dfhg-project.org/Witnesses-Catalog/works_char.php), and a [Witnesses Timeline](http://www.dfhg-project.org/Witnesses-Catalog/timeline.php). The Catalog includes also experimental text reuse detection. 
 
