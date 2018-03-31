@@ -1,0 +1,8 @@
+title: DFHG
+description: A digital version of the Fragmenta Historicorum Graecorum
+google_analytics: UA-70680383-1
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
